@@ -14,8 +14,6 @@ class JavDictionary
 			Path path = Path.of("Data.txt");
 			List<String> idol_data_list = Files.readAllLines(path);
 			
-				
-
 			while(true)
 			{
 				System.out.print("Nhap idol muon tim kiem: ");
